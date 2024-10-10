@@ -3,3 +3,10 @@
     background-color: aqua;
     border-radius: 10px;
 }
+
+.subtitulo {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(107, 202, 202);
+    border-radius: 10px;
+    font-size: 16px;
+}
